@@ -22,7 +22,12 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
+    "cryptiles": "^4.1.2",
+    "hoek": "^5.0.3",
+    "mime": "^2.0.3",
     "production": "0.0.2",
-    "request": "^2.68.0"
+    "request": "^2.68.0",
+    "tough-cookie": "^2.5.0",
+    "tunnel-agent": "^0.6.0"
   }
 }
