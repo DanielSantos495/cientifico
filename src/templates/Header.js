@@ -7,12 +7,12 @@ const Header = () => {
                         100tifi.co
                     </a>
                 </h1>
-            </div> 
+            </div>
             <div class="Header-nav">
                 <a href="#/about/">
                     About
                 </a>
-            </div>       
+            </div>
         </div>
     `;
     return view;
