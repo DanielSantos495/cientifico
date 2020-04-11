@@ -22,6 +22,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "production": "0.0.2"
+    "production": "0.0.2",
+    "request": "^2.68.0"
   }
 }
